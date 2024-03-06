@@ -13,3 +13,18 @@ let isLoggedIn =1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 console.table([isLoggedIn, booleanIsLoggedIn])
+
+
+/* ******************************* Operations ******************************* */
+value = 3
+let negativeValue = -value
+console.log(negativeValue)
+
+
+/*console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2**3)
+console.log(2/3)
+console.log(2%3)*/
+
